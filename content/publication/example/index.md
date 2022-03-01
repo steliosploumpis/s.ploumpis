@@ -44,6 +44,16 @@ tags: []
 # Display this page in the Featured widget?
 featured: false
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/S_Ploumpis
+url_code: "https://github.com/steliosploumpis/Universal_Head_3DMM"
+url_pdf: "https://openaccess.thecvf.com/content_CVPR_2019/papers/Ploumpis_Combining_3D_Morphable_Models_A_Large_Scale_Face-And-Head_Model_CVPR_2019_paper.pdf"
+#url_slides: ""
+url_video: "https://www.youtube.com/watch?v=fNlMGWm7bbk&t=4700s"
+
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
