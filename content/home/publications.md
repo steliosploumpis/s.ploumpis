@@ -17,6 +17,8 @@ subtitle: ''
 
 content:
   # Filter on criteria
+  page_type: post
+
   filters:
     folders:
       - publication
