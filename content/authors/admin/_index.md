@@ -74,5 +74,6 @@ Stylianos Ploumpis received the Diploma and Master of Industrial Engineering fro
 
 Currently, he is a PhD candidate/Researcher at the Department of Computing at Imperial College, under the supervision of Dr. Stefanos Zafeiriou. His research interests lie in the field of 3D Computer Vision, 3D Morphable Models and Machine Learning.
 
-Additionally, in conjunction with his postgraduate studies, Stylianos is currently working as a full time employee at Huawei Technologies Co. Ltd as a Senior Research
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Additionally, in conjunction with his postgraduate studies, Stylianos is currently working as a full time employee at Huawei Technologies Co. Ltd as a Senior Research.
+
+Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
