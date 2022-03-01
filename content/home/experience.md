@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -44,7 +44,16 @@ experience:
   #   date_start: '2016-01-01'
   #   date_end: '2020-12-31'
   #   description: Taught electronic engineering and researched semiconductor physics.
-  - title: Computer Vision Scientist
+  - title: Senior Research Scientist
+    company: Huawei Technologies co. Ltd
+    company_url: ''
+    company_logo: org-x
+    location: Redmond, WA
+    date_start: '2020-06-01'
+    date_end: 'Present'
+    description: Computer Vision team at R&D department in Consumer Business Group (CBG)
+
+  - title: Research Intern
     company: Microsoft Corporation
     company_url: ''
     company_logo: org-x
