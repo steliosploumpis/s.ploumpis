@@ -1,12 +1,15 @@
 ---
-title: "An example conference paper"
+title: "Combining 3d morphable models: A large scale face-and-head model"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Stylianos Ploumpis 
-- Robert Ford
+- S Ploumpis
+- H Wang
+- N Pears
+- WAP Smith
+- S Zafeiriou
 
 # Author notes (optional)
 author_notes:
