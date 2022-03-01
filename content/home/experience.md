@@ -44,16 +44,7 @@ experience:
   #   date_start: '2016-01-01'
   #   date_end: '2020-12-31'
   #   description: Taught electronic engineering and researched semiconductor physics.
-  - title: Senior Research Scientist
-    company: Huawei Technologies co. Ltd
-    company_url: ''
-    company_logo: org-x
-    location: Redmond, WA
-    date_start: '2020-06-01'
-    date_end: 'Present'
-    description: Computer Vision team at R&D department in Consumer Business Group (CBG)
-
-  - title: Research Intern
+  - title: Computer Vision Scientist
     company: Microsoft Corporation
     company_url: ''
     company_logo: org-x
@@ -69,7 +60,7 @@ experience:
     location: London, UK
     date_start: '2018-04-01'
     date_end: '2019-07-01'
-    description: Computer Vision/Graphics Scientist specialising in 3D Morphable Models and Machine Learning
+    description: Computer Vision/Graphics Scientist specialising in 3D Morphable Models and Machine Learning.
 design:
-  columns: '3'
+  columns: '2'
 ---
