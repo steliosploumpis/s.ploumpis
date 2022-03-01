@@ -17,12 +17,10 @@ subtitle: ''
 
 content:
   # Filter on criteria
-  page_type: publication
-  
   filters:
     folders:
       - publication
-    tag: '*'
+    tag: ''
     category: ''
     publication_type: ''
     author: ''
