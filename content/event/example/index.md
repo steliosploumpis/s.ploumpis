@@ -1,13 +1,13 @@
 ---
-title: Example Talk
+title: CVPR Oral Presentation
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: CVPR 2019
+event_url: https://cvpr2019.thecvf.com/
 
-location: Wowchemy HQ
+location: Long Beach
 address:
   street: 450 Serra Mall
-  city: Stanford
+  city: Los Angeles
   region: CA
   postcode: '94305'
   country: United States
