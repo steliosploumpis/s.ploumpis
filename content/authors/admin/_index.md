@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Stylianos Ploumpis
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Imperial College London
+  url: https://www.imperial.ac.uk/computing
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Stylianos Ploumpis received the Diploma and Master of Industrial Engineering from Democritus University of Thrace, Greece (D.U.T.H.), in 2013 majoring in Industrial Robotics. He pursued an MSc in Computing (specialisation Machine Learning) at Imperial College London in 2015.
+
+Currently, he is a PhD candidate/Researcher at the Department of Computing at Imperial College, under the supervision of Dr. Stefanos Zafeiriou. His research interests lie in the field of 3D Computer Vision, 3D Morphable Models and Machine Learning.
+
+Additionally, in conjunction with his postgraduate studies, Stylianos is currently working as a full time employee at Huawei Technologies Co. Ltd as a Senior Research
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 3D Computer Vision
+- Machine Learning
+- Deep Learning 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Imperial College London
+    year: 2021
+  - course: MSc in Computer Science/ Machine Learning 
+    institution: Imperial College London
+    year: 2016
+  - course: MEng in Mechanical & Production Engineering 
+    institution: Democritus University of Trace
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +49,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/S_Ploumpis
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=5hM4Ul4AAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/steliosploumpis
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/ploumpis/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +74,9 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Stylianos Ploumpis received the Diploma and Master of Industrial Engineering from Democritus University of Thrace, Greece (D.U.T.H.), in 2013 majoring in Industrial Robotics. He pursued an MSc in Computing (specialisation Machine Learning) at Imperial College London in 2015.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, he is a PhD candidate/Researcher at the Department of Computing at Imperial College, under the supervision of Dr. Stefanos Zafeiriou. His research interests lie in the field of 3D Computer Vision, 3D Morphable Models and Machine Learning.
 
+Additionally, in conjunction with his postgraduate studies, Stylianos is currently working as a full time employee at Huawei Technologies Co. Ltd as a Senior Research
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
