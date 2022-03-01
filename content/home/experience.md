@@ -71,5 +71,5 @@ experience:
     date_end: '2019-07-01'
     description: Computer Vision/Graphics Scientist specialising in 3D Morphable Models and Machine Learning
 design:
-  columns: '2'
+  columns: '3'
 ---
