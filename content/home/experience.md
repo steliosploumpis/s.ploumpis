@@ -45,14 +45,7 @@ experience:
   #   date_end: '2020-12-31'
   #   description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: Senior Research Scientist
-    company: Huawei Technologies co. Ltd
-    company_url: ''
-    company_logo: org-x
-    location: Redmond, WA
-    date_start: '2020-06-01'
-    date_end: 'Present'
-    description: Computer Vision team at R&D department in Consumer Business Group (CBG)
+ 
 
   - title: Research Intern
     company: Microsoft Corporation
