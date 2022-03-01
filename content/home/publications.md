@@ -4,7 +4,7 @@
 widget: pages
 
 # Activate this widget? true/false
-active: False
+active: True
 
 # This file represents a page section.
 headless: true
@@ -35,7 +35,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: 2
   columns: '2'
 ---
 
