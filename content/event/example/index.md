@@ -1,5 +1,5 @@
 ---
-title: CVPR Oral Presentation
+title: CVPR '19 Oral Presentation
 
 event: CVPR 2019
 event_url: https://cvpr2019.thecvf.com/
@@ -15,7 +15,7 @@ address:
 summary: Combining 3D Morphable Models, A Largescale Face-and-Head Model
 abstract: "Three-dimensional Morphable Models (3DMMs) are powerful statistical tools for representing the 3D surfaces
 of an object class. In this context, we identify an interesting question that has previously not received research attention:
-is it possible to combine two or more 3DMMs that (a) are built using different templates that perhaps only partly overlap, (b) have different representation capabilities and (c) are built from different datasets that may not be publiclyavailable?"
+is it possible to combine two or more 3DMMs that (a) are built using different templates that perhaps only partly overlap, (b) have different representation capabilities and (c) are built from different datasets that may not be publicly available? In answering this question, we make two contributions. First, we propose two methods for solving this problem: i.~use a regressor to complete missing parts of one model using the other, ii.~use the Gaussian Process framework to blend covariance matrices from multiple models. Second, as an example application of our approach, we build a new face-and-head shape model that combines the variability and facial detail of the LSFM with the full head modelling of the LYHM. The resulting combined shape model achieves state-of-the-art performance and outperforms existing head models by a large margin. Finally, as an application experiment, we reconstruct full head representations from single, unconstrained images by utilizing our proposed large-scale model in conjunction with the FaceWarehouse blendshapes for handling expressions."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -43,7 +43,7 @@ links:
   url: https://twitter.com/S_Ploumpis
 url_code: "https://github.com/steliosploumpis/Universal_Head_3DMM"
 url_pdf: "https://openaccess.thecvf.com/content_CVPR_2019/papers/Ploumpis_Combining_3D_Morphable_Models_A_Large_Scale_Face-And-Head_Model_CVPR_2019_paper.pdf"
-url_slides: ""
+#url_slides: ""
 url_video: "https://www.youtube.com/watch?v=fNlMGWm7bbk&t=4700s"
 
 # Markdown Slides (optional).
@@ -51,15 +51,15 @@ url_video: "https://www.youtube.com/watch?v=fNlMGWm7bbk&t=4700s"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+# projects:
+# - example
 ---
 
 <!-- {{% callout note %}}
