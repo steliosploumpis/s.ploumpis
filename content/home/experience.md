@@ -56,7 +56,7 @@ experience:
   - title: Research Intern
     company: Microsoft Corporation
     company_url: ''
-    company_logo: org-x
+    company_logo: MS
     location: Redmond, WA
     date_start: '2019-08-01'
     date_end: '2019-10-01'
