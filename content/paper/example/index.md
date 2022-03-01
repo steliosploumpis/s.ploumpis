@@ -1,5 +1,5 @@
 ---
-title: CVPR '19 Oral Presentation
+title: Combining 3d morphable models, A large scale face-and-head model
 
 event: CVPR 2019
 event_url: https://cvpr2019.thecvf.com/
