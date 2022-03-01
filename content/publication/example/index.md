@@ -5,7 +5,7 @@ title: "Combining 3d morphable models: A large scale face-and-head model"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- S Ploumpis
+- S **Ploumpis**
 - H Wang
 - N Pears
 - WAP Smith
@@ -18,6 +18,17 @@ authors:
 
 date: "2019-06-20"
 doi: ""
+
+event: CVPR 2019
+event_url: https://cvpr2019.thecvf.com/
+
+location: Long Beach
+address:
+  #street: 450 Serra Mall
+  city: Los Angeles
+  region: CA
+  #postcode: '94305'
+  country: United States
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "019-06-20"
@@ -42,7 +53,7 @@ abstract: Three-dimensional Morphable Models (3DMMs) are powerful statistical to
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 links:
 - icon: twitter
