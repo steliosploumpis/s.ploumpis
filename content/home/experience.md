@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -49,7 +49,7 @@ experience:
     company: Huawei Technologies co. Ltd
     company_url: ''
     company_logo: org-x
-    location: Redmond, WA
+    location: London, UK
     date_start: '2020-06-01'
     description: Computer Vision team at R&D department in Consumer Business Group (CBG)
 
