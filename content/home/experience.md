@@ -65,7 +65,7 @@ experience:
   - title: Computer Vision Scientist
     company: Facesoft Ltd.
     company_url: ''
-    company_logo: FC
+    company_logo: org-x
     location: London, UK
     date_start: '2018-04-01'
     date_end: '2019-07-01'
