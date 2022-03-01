@@ -30,7 +30,7 @@ education:
     year: 2021
   - course: MSc in Computer Science/ Machine Learning 
     institution: Imperial College London
-    year: 2016
+    year: 2017
   - course: MEng in Mechanical & Production Engineering 
     institution: Democritus University of Trace
     year: 2013
@@ -76,4 +76,4 @@ He holds a PhD degree from the Department of Computing at Imperial College, supe
 
 Stylianos is currently working as a full time employee at Huawei Technologies Co. Ltd as a Senior Research Scientist. He has also worked as a Research Intern at Microsoft Corporation and as a Computer Vision Scientist at Facesoft Ltd.
 
-Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
