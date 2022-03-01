@@ -4,7 +4,7 @@
 widget: portfolio
 
 # Activate this widget? true/false
-active: False
+active: True
 # This file represents a page section.
 headless: true
 
