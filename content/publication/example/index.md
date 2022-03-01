@@ -1,19 +1,22 @@
 ---
-title: "An example conference paper"
+title: "Combining 3d morphable models: A large scale face-and-head model"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Robert Ford
+- S Ploumpis
+- H Wang
+- N Pears
+- WAP Smith
+- S Zafeiriou
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2019-06-20"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,32 +29,32 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Conference on Computer Vision and Pattern Recognition*
+publication_short: In *CVPR*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Three-dimensional Morphable Models (3DMMs) are powerful statistical tools for representing the 3D surfaces of an object class. In this context, we identify an interesting question that has previously not received research attention, is it possible to combine two or more 3DMMs that (a) are built using different templates that perhaps only partly overlap,(b) have different representation capabilities and (c) are built from different datasets that may not be publicly-available? In answering this question, we make two contributions. First, we propose two methods for solving this problem, i. use a regressor to complete missing parts of one model using the other, ii. use the Gaussian Process framework to blend covariance matrices from multiple models. Second, as an example application of our approach, we build a new head and face model that combines the variability and facial detail of the LSFM with the full head modelling of the LYHM. The resulting combined model achieves state-of-the-art performance and outperforms existing head models by a large margin. Finally, as an application experiment, we reconstruct full head representations from single, unconstrained images by utilizing our proposed large-scale model in conjunction with the Face-Warehouse blendshapes for handling expressions.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: False
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://openaccess.thecvf.com/content_CVPR_2019/papers/Ploumpis_Combining_3D_Morphable_Models_A_Large_Scale_Face-And-Head_Model_CVPR_2019_paper.pdf'
+url_code: 'https://github.com/steliosploumpis/Universal_Head_3DMM'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?feature=player_embedded&v=fNlMGWm7bbk&t=4700s'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
