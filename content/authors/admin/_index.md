@@ -14,7 +14,7 @@ organizations:
   url: https://www.imperial.ac.uk/computing
 
 # Short bio (displayed in user profile at end of posts)
-bio: Senior Research Scientist at Huawei Technologies Ltd.
+bio:
 
 # Interests to show in About widget
 interests:
