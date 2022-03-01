@@ -6,23 +6,25 @@ event_url: https://cvpr2019.thecvf.com/
 
 location: Long Beach
 address:
-  street: 450 Serra Mall
+  #street: 450 Serra Mall
   city: Los Angeles
   region: CA
-  postcode: '94305'
+  #postcode: '94305'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Combining 3D Morphable Models, A Largescale Face-and-Head Model
+abstract: "Three-dimensional Morphable Models (3DMMs) are powerful statistical tools for representing the 3D surfaces
+of an object class. In this context, we identify an interesting question that has previously not received research attention:
+is it possible to combine two or more 3DMMs that (a) are built using different templates that perhaps only partly overlap, (b) have different representation capabilities and (c) are built from different datasets that may not be publiclyavailable?"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2019-06-20'
+#date_end: '2030-06-01T15:00:00Z'
+all_day: True
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+#publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
