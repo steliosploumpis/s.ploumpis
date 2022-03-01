@@ -14,11 +14,7 @@ organizations:
   url: https://www.imperial.ac.uk/computing
 
 # Short bio (displayed in user profile at end of posts)
-bio: Stylianos Ploumpis received the Diploma and Master of Industrial Engineering from Democritus University of Thrace, Greece (D.U.T.H.), in 2013 majoring in Industrial Robotics. He pursued an MSc in Computing (specialisation Machine Learning) at Imperial College London in 2015.
-
-Currently, he is a PhD candidate/Researcher at the Department of Computing at Imperial College, under the supervision of Dr. Stefanos Zafeiriou. His research interests lie in the field of 3D Computer Vision, 3D Morphable Models and Machine Learning.
-
-Additionally, in conjunction with his postgraduate studies, Stylianos is currently working as a full time employee at Huawei Technologies Co. Ltd as a Senior Research
+bio: Stylianos Ploumpis received the Diploma and Master of Industrial Engineering from Democritus University of Thrace, Greece (D.U.T.H.), in 2013 majoring in Industrial Robotics. He pursued an MSc in Computing (specialisation Machine Learning) at Imperial College London in 2015. Currently, he is a PhD candidate/Researcher at the Department of Computing at Imperial College, under the supervision of Dr. Stefanos Zafeiriou. His research interests lie in the field of 3D Computer Vision, 3D Morphable Models and Machine Learning. Additionally, in conjunction with his postgraduate studies, Stylianos is currently working as a full time employee at Huawei Technologies Co. Ltd as a Senior Research
 
 # Interests to show in About widget
 interests:
