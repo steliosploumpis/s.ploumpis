@@ -76,4 +76,4 @@ He holds a PhD degree from the Department of Computing at Imperial College, supe
 
 Stylianos is currently working as a full time employee at Huawei Technologies Co. Ltd as a Senior Research Scientist. He has also worked as a Research Intern at Microsoft Corporation and as a Computer Vision Scientist at Facesoft Ltd.
 
-Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
