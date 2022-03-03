@@ -34,7 +34,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Transactions on Pattern Analysis and Machine Intelligence*
-publication_short: In *CVPR*
+publication_short: In *TPAMI*
 
 summary: IEEE *Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), April 29, 2020*
 
