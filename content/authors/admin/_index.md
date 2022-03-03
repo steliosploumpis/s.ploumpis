@@ -75,5 +75,4 @@ Stylianos is currently working as a full time employee at Huawei Technologies Co
 He holds a PhD degree from the Department of Computing at Imperial College, supervised by Dr. Stefanos Zafeiriou. His research interests lie in the field of 3D Computer Vision, 3D Morphable Models and Machine Learning. He pursued an MSc in Computing (specialisation Machine Learning) at Imperial College London in 2015. He also received the Diploma and Master of Industrial Engineering from Democritus University of Thrace, Greece (D.U.T.H.), in 2013 majoring in Industrial Robotics.
 
 
-
 Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
