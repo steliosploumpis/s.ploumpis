@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/mailto:s.ploumpis@gmail.com'
+  link: 'mailto:s.ploumpis@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/S_Ploumpis
