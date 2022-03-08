@@ -60,7 +60,7 @@ experience:
     location: Redmond, WA
     date_start: '2019-08-01'
     date_end: '2019-10-01'
-    description: Computer Vision Researcher at Microsoft Research (MSR)
+    description: AI Perception and Mixed Reality Platform Team.
 
   - title: Computer Vision Scientist
     company: Facesoft Ltd.
