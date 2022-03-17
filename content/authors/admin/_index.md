@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Stylianos is currently working as a full time employee at Huawei Technologies Co. Ltd as a Senior Research Scientist for the past 2 years. He has also worked as a Research Intern at Microsoft Corporation in Seattle, WA and served as a founding member and Computer Vision Scientist at Facesoft Ltd. specializing in 3D computer vision tasks.
+Stylianos is currently working as a Senior Research Scientist at Huawei Technologies Co. Ltd. He has also worked as a Research Intern at Microsoft Corporation in Seattle, WA in 2019, and served as a founding member and Computer Vision Scientist at Facesoft Ltd. specializing in 3D computer vision tasks.
 
 He holds a PhD degree from the Department of Computing at Imperial College London, supervised by Dr. Stefanos Zafeiriou. His research interests lie in the field of 3D Computer Vision, 3D Morphable Models and Machine Learning. He pursued an MSc in Computing (specialisation Machine Learning) at Imperial College London in 2015. He also received the Diploma and Master of Industrial Engineering from Democritus University of Thrace, Greece (D.U.T.H.), in 2013 majoring in Industrial Robotics.
 
