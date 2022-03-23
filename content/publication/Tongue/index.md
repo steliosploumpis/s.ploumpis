@@ -42,6 +42,7 @@ featured: false
 links:
 url_code: "https://github.com/steliosploumpis/3D_human_tongue_reconstruction"
 url_pdf: "https://arxiv.org/pdf/2106.12302.pdf"
+url_dataset: "https://github.com/steliosploumpis/3D_human_tongue_reconstruction#public-release-tongue-dataset"
 #url_slides: ""
 #url_video: "https://www.youtube.com/watch?v=fNlMGWm7bbk&t=4700s"
 
