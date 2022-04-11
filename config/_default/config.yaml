@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Stylianos Ploumpis # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://ploumpis.com/' # Website URL
 
 ############################
 ## LANGUAGE
