@@ -41,7 +41,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 url_code: "https://github.com/steliosploumpis/3D_human_tongue_reconstruction"
-url_pdf: "https://arxiv.org/pdf/2106.12302.pdf"
+url_pdf: "https://openaccess.thecvf.com/content/CVPR2022/papers/Ploumpis_3D_Human_Tongue_Reconstruction_From_Single_In-the-Wild_Images_CVPR_2022_paper.pdf"
 url_dataset: "https://github.com/steliosploumpis/3D_human_tongue_reconstruction#public-release-tongue-dataset"
 #url_slides: ""
 #url_video: "https://www.youtube.com/watch?v=fNlMGWm7bbk&t=4700s"
