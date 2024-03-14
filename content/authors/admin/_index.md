@@ -10,7 +10,7 @@ role: Senior Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Google
+- name: Google AR & VR
   url: https://arvr.google.com/
 
 # Short bio (displayed in user profile at end of posts)
