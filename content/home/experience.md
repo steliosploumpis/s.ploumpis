@@ -46,12 +46,30 @@ experience:
   #   description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Senior Research Scientist
+    company: Google
+    company_url: ''
+    company_logo: GL
+    location: London, UK
+    date_start: '2024-03-04'
+    description:  Digital humans at Google AR & VR
+
+  - title: Senior Research Scientist
     company: Huawei Technologies co. Ltd
     company_url: ''
     company_logo: HW
     location: London, UK
     date_start: '2020-06-01'
+    date_end: '2023-02-01'
     description: Computer Vision team at R&D department in Consumer Business Group (CBG)
+
+  - title: Computer Vision Scientist
+    company: Facesoft Ltd.
+    company_url: ''
+    company_logo: FC
+    location: London, UK
+    date_start: '2018-04-01'
+    date_end: '2020-06-01'
+    description: Computer Vision/Graphics Scientist specialising in 3D Morphable Models and Machine Learning
 
   - title: Research Intern
     company: Microsoft Corporation
@@ -62,14 +80,6 @@ experience:
     date_end: '2019-10-01'
     description: AI Perception and Mixed Reality Platform Team.
 
-  - title: Computer Vision Scientist
-    company: Facesoft Ltd.
-    company_url: ''
-    company_logo: FC
-    location: London, UK
-    date_start: '2018-04-01'
-    date_end: '2019-07-01'
-    description: Computer Vision/Graphics Scientist specialising in 3D Morphable Models and Machine Learning
 design:
   columns: '2'
 ---
