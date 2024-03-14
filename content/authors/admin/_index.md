@@ -10,8 +10,8 @@ role: Senior Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Imperial College London
-  url: https://www.imperial.ac.uk/computing
+- name: Google
+  url: https://arvr.google.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
