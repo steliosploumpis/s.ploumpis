@@ -59,7 +59,7 @@ experience:
     company_logo: HW
     location: London, UK
     date_start: '2020-06-01'
-    date_end: '2023-02-01'
+    date_end: '2024-02-01'
     description: Computer Vision team at R&D department in Consumer Business Group (CBG)
 
   - title: Computer Vision Scientist
